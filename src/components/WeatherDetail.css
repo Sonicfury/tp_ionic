@@ -1,0 +1,11 @@
+#home-spinner{
+    display: block;
+    margin: 30vh auto;
+    transform: scale(2);
+}
+.list__item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

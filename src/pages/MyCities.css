@@ -1,0 +1,5 @@
+#home-spinner{
+    display: block;
+    margin: 30vh auto;
+    transform: scale(2);
+}
